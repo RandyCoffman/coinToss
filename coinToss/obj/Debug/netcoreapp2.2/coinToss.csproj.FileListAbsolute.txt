@@ -1,0 +1,10 @@
+C:\Users\Scott\code\c#\coinToss\coinToss\bin\Debug\netcoreapp2.2\coinToss.deps.json
+C:\Users\Scott\code\c#\coinToss\coinToss\bin\Debug\netcoreapp2.2\coinToss.runtimeconfig.json
+C:\Users\Scott\code\c#\coinToss\coinToss\bin\Debug\netcoreapp2.2\coinToss.runtimeconfig.dev.json
+C:\Users\Scott\code\c#\coinToss\coinToss\bin\Debug\netcoreapp2.2\coinToss.dll
+C:\Users\Scott\code\c#\coinToss\coinToss\bin\Debug\netcoreapp2.2\coinToss.pdb
+C:\Users\Scott\code\c#\coinToss\coinToss\obj\Debug\netcoreapp2.2\coinToss.csproj.CoreCompileInputs.cache
+C:\Users\Scott\code\c#\coinToss\coinToss\obj\Debug\netcoreapp2.2\coinToss.AssemblyInfoInputs.cache
+C:\Users\Scott\code\c#\coinToss\coinToss\obj\Debug\netcoreapp2.2\coinToss.AssemblyInfo.cs
+C:\Users\Scott\code\c#\coinToss\coinToss\obj\Debug\netcoreapp2.2\coinToss.dll
+C:\Users\Scott\code\c#\coinToss\coinToss\obj\Debug\netcoreapp2.2\coinToss.pdb
